@@ -1,0 +1,35 @@
+import pandas as pd
+from tqdm import tqdm
+import content as ct
+import numpy as np
+
+contentList = []
+df = pd.read_csv('./data/movieData.csv')
+keys = list(df.keys())
+#print(list(df.keys()))
+
+
+for row in tqdm(df.to_numpy(), total = len(df), position=0, leave=True):
+    ct_keys = keys
+    ct_values = row
+
+    if 'size' not in ct_keys:
+        ct_keys = np.append(ct_keys, ['size'])
+        ct_values = np.append(ct_values, [20])
+
+    content = ct.Content(ct_keys, ct_values)
+    #print(content)
+    print(content.__dict__)
+
+
+
+'''
+    element = df.to_dict('records')[row]
+    keys = list(element.keys())
+    values = list(element.values())
+    if 'size' not in keys:
+        keys.append('size')
+        values.append(cf.CONTENT_SIZE)
+    
+    contentList.append(ct.Content(keys, values))
+'''

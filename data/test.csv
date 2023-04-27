@@ -1,0 +1,211 @@
+id,title,size,popularity,peak_day,category
+0,현재는 아름다워,20,25,0,drama
+1,미운 우리 새끼,20,11.8,0,comedy
+2,태종 이방원,20,11.5,0,drama
+3,1박 2일 시즌4,20,8.4,0,comedy
+4,KBS 뉴스 9,20,8.1,0,news
+5,TV 동물농장,20,7.6,0,comedy
+6,사장님 귀는 당나귀 귀,20,5.6,0,comedy
+7,복면가왕,20,5.6,0,comedy
+8,"이슈 Pick, 쌤과 함께",20,5.1,0,news
+9,역사저널 그날,20,5.1,0,news
+10,코로나19 통합뉴스룸,20,5.1,0,news
+11,전국노래자랑,20,4.7,0,comedy
+12,노래가 좋아,20,3.9,0,comedy
+13,집사부 일체,20,3.9,0,comedy
+14,동물의 왕국,20,3.8,0,news
+15,Sunday_news_pop_8,20,8,0,news
+16,Sunday_news_pop_7.6,20,7.6,0,news
+17,Sunday_news1,20,1.2,0,news
+18,Sunday_news2,20,1.6,0,news
+19,Sunday_news3,20,1.1,0,news
+20,Sunday_news4,20,1.2,0,news
+21,Sunday_news5,20,1.6,0,news
+22,Sunday_news6,20,1.1,0,news
+23,Sunday_comedy1,20,1.3,0,comedy
+24,Sunday_comedy2,20,1.7,0,comedy
+25,Sunday_comedy3,20,1.4,0,comedy
+26,Sunday_comedy4,20,1.3,0,comedy
+27,Sunday_comedy5,20,1.7,0,comedy
+28,Sunday_comedy6,20,1.4,0,comedy
+29,Sunday_drama1,20,1.9,0,drama
+30,Sunday_drama2,20,1.6,0,drama
+31,Sunday_drama3,20,1.2,0,drama
+32,Sunday_drama4,20,1.9,0,drama
+33,Sunday_drama5,20,1.6,0,drama
+34,Sunday_drama6,20,1.2,0,drama
+35,으라차차 내 인생,20,17.1,1,drama
+36,사랑의 꽈배기,20,15.3,1,drama
+37,KBS 뉴스 9,20,10.7,1,news
+38,붉은 단심,20,6.3,1,drama
+39,비밀의 집,20,5.4,1,drama
+40,동상이몽 2,20,4.6,1,comedy
+41,생활의 달인,20,4.6,1,comedy
+42,코로나19 통합뉴스룸,20,10.7,1,news
+43,으라차차 내 인생,20,1.3,1,drama
+44,크레이지 러브,20,1.2,1,drama
+45,Monday_news_pop_8,20,8,0,news
+46,Monday_news_pop_7.6,20,7.6,0,news
+47,Monday_news1,20,1.2,1,news
+48,Monday_news2,20,1.6,1,news
+49,Monday_news3,20,1.1,1,news
+50,Monday_news4,20,1.2,1,news
+51,Monday_news5,20,1.6,1,news
+52,Monday_news6,20,1.1,1,news
+53,Monday_comedy1,20,1.3,1,comedy
+54,Monday_comedy2,20,1.7,1,comedy
+55,Monday_comedy3,20,1.4,1,comedy
+56,Monday_comedy4,20,1.3,1,comedy
+57,Monday_comedy5,20,1.7,1,comedy
+58,Monday_comedy6,20,1.4,1,comedy
+59,Monday_drama1,20,1.9,1,drama
+60,Monday_drama2,20,1.6,1,drama
+61,Monday_drama3,20,1.2,1,drama
+62,Monday_drama4,20,1.9,1,drama
+63,Monday_drama5,20,1.6,1,drama
+64,Monday_drama6,20,1.2,1,drama
+65,으라차차 내 인생,20,16.7,2,drama
+66,사랑의 꽈배기,20,16.3,2,drama
+67,KBS 뉴스 9,20,9.9,2,drama
+68,인간극장,20,9.5,2,news
+69,신발 벗고 돌싱포맨,20,6.4,2,comedy
+70,붉은 단심,20,6,2,drama
+71,순간포착 세상에 이런일이,20,5.7,2,comedy
+72,비밀의 집,20,5.3,2,drama
+73,코로나19 통합뉴스룸,20,4.5,2,news
+74,Tuesday_news_pop_8,20,8,2,news
+75,Tuesday_news_pop_7.6,20,7.6,2,news
+76,Tuesday_news1,20,1.2,2,news
+77,Tuesday_news2,20,1.6,2,news
+78,Tuesday_news3,20,1.1,2,news
+79,Tuesday_news4,20,1.2,2,news
+80,Tuesday_news5,20,1.6,2,news
+81,Tuesday_news6,20,1.1,2,news
+82,Tuesday_comedy1,20,1.3,2,comedy
+83,Tuesday_comedy2,20,1.7,2,comedy
+84,Tuesday_comedy3,20,1.4,2,comedy
+85,Tuesday_comedy4,20,1.3,2,comedy
+86,Tuesday_comedy5,20,1.7,2,comedy
+87,Tuesday_comedy6,20,1.4,2,comedy
+88,Tuesday_drama1,20,1.9,2,drama
+89,Tuesday_drama2,20,1.6,2,drama
+90,Tuesday_drama3,20,1.2,2,drama
+91,Tuesday_drama4,20,1.9,2,drama
+92,Tuesday_drama5,20,1.6,2,drama
+93,Tuesday_drama6,20,1.2,2,drama
+94,으라차차 내 인생,20,15.7,3,drama
+95,사랑의 꽈배기,20,14.1,3,drama
+96,KBS 뉴스 9,20,9.6,3,news
+97,인간극장,20,9.4,3,news
+98,골 때리는 그녀들,20,7,3,comedy
+99,라디오스타,20,5.9,3,comedy
+100,코로나19 통합뉴스룸,20,5.4,3,news
+101,비밀의 집,20,4.9,3,drama
+102,일꾼의 탄생,20,4.9,3,drama
+103,옥탑방의 문제아들,20,3.5,3,comedy
+104,Wednesday_news_pop_8,20,8,3,news
+105,Wednesday_news_pop_7.6,20,7.6,3,news
+106,Wednesday_news1,20,1.2,3,news
+107,Wednesday_news2,20,1.6,3,news
+108,Wednesday_news3,20,1.1,3,news
+109,Wednesday_news4,20,1.2,3,news
+110,Wednesday_news5,20,1.6,3,news
+111,Wednesday_news6,20,1.1,3,news
+112,Wednesday_comedy1,20,1.3,3,comedy
+113,Wednesday_comedy2,20,1.7,3,comedy
+114,Wednesday_comedy3,20,1.4,3,comedy
+115,Wednesday_comedy4,20,1.3,3,comedy
+116,Wednesday_comedy5,20,1.7,3,comedy
+117,Wednesday_comedy6,20,1.4,3,comedy
+118,Wednesday_drama1,20,1.9,3,drama
+119,Wednesday_drama2,20,1.6,3,drama
+120,Wednesday_drama3,20,1.2,3,drama
+121,Wednesday_drama4,20,1.9,3,drama
+122,Wednesday_drama5,20,1.6,3,drama
+123,Wednesday_drama6,20,1.2,3,drama
+124,으라차차 내 인생,20,16.2,4,drama
+125,사랑의 꽈배기,20,14.2,4,drama
+126,KBS 뉴스 9,20,10.2,4,news
+127,인간극장,20,8.5,4,news
+128,비밀의 집,20,8.8,4,drama
+129,코로나19 통합뉴스룸,20,4.8,4,news
+130,TV 동물농장,20,4.5,4,comedy
+131,걸어서 세계속으로,20,3.9,4,news
+132,Thursday_news_pop_8,20,8,4,news
+133,Thursday_news_pop_7.6,20,7.6,4,news
+134,Thursday_news1,20,1.2,4,news
+135,Thursday_news2,20,1.6,4,news
+136,Thursday_news3,20,1.1,4,news
+137,Thursday_news4,20,1.2,4,news
+138,Thursday_news5,20,1.6,4,news
+139,Thursday_news6,20,1.1,4,news
+140,Thursday_comedy1,20,1.3,4,comedy
+141,Thursday_comedy2,20,1.7,4,comedy
+142,Thursday_comedy3,20,1.4,4,comedy
+143,Thursday_comedy4,20,1.3,4,comedy
+144,Thursday_comedy5,20,1.7,4,comedy
+145,Thursday_comedy6,20,1.4,4,comedy
+146,Thursday_drama1,20,1.9,4,drama
+147,Thursday_drama2,20,1.6,4,drama
+148,Thursday_drama3,20,1.2,4,drama
+149,Thursday_drama4,20,1.9,4,drama
+150,Thursday_drama5,20,1.6,4,drama
+151,Thursday_drama6,20,1.2,4,drama
+152,으라차차 내 인생,20,14.7,5,drama
+153,사랑의 꽈배기,20,13.3,5,drama
+154,어게인 마이 라이프,20,10.1,5,drama
+155,인간극장,20,9.6,5,news
+156,KBS 뉴스 9,20,9.4,5,news
+157,나 혼자 산다,20,6.5,5,comedy
+158,비밀의 집,20,5,5,drama
+159,코로나19 통합뉴스룸,20,4.8,5,news
+160,자연의 철학자들,20,4.5,5,news
+161,Friday_news_pop_8,20,8,5,news
+162,Friday_news_pop_7.6,20,7.6,5,news
+163,Friday_news1,20,1.2,5,news
+164,Friday_news2,20,1.6,5,news
+165,Friday_news3,20,1.1,5,news
+166,Friday_news4,20,1.2,5,news
+167,Friday_news5,20,1.6,5,news
+168,Friday_news6,20,1.1,5,news
+169,Friday_comedy1,20,1.3,5,comedy
+170,Friday_comedy2,20,1.7,5,comedy
+171,Friday_comedy3,20,1.4,5,comedy
+172,Friday_comedy4,20,1.3,5,comedy
+173,Friday_comedy5,20,1.7,5,comedy
+174,Friday_comedy6,20,1.4,5,comedy
+175,Friday_drama1,20,1.9,5,drama
+176,Friday_drama2,20,1.6,5,drama
+177,Friday_drama3,20,1.2,5,drama
+178,Friday_drama4,20,1.9,5,drama
+179,Friday_drama5,20,1.6,5,drama
+180,Friday_drama6,20,1.2,5,drama
+181,현재는 아름다워,20,20.7,6,drama
+182,어게인 마이 라이프,20,9.6,6,drama
+183,KBS 뉴스 9,20,8.1,6,news
+184,놀면 뭐하니?,20,6.3,6,comedy
+185,불후의 명곡,20,5.7,6,drama
+186,살림하는 남자들 시즌2,20,5.6,6,comedy
+187,시니어 토크쇼 황금연못,20,5,6,comedy
+188,코로나19 통합뉴스룸,20,5,6,news
+189,전지적 참견 시점,20,4.4,6,comedy
+190,Saturday_news_pop_8,20,8,6,news
+191,Saturday_news_pop_7.6,20,7.6,6,news
+192,Saturday_news1,20,1.2,6,news
+193,Saturday_news2,20,1.6,6,news
+194,Saturday_news3,20,1.1,6,news
+195,Saturday_news4,20,1.2,6,news
+196,Saturday_news5,20,1.6,6,news
+197,Saturday_news6,20,1.1,6,news
+198,Saturday_comedy1,20,1.3,6,comedy
+199,Saturday_comedy2,20,1.7,6,comedy
+200,Saturday_comedy3,20,1.4,6,comedy
+201,Saturday_comedy4,20,1.3,6,comedy
+202,Saturday_comedy5,20,1.7,6,comedy
+203,Saturday_comedy6,20,1.4,6,comedy
+204,Saturday_drama1,20,1.9,6,drama
+205,Saturday_drama2,20,1.6,6,drama
+206,Saturday_drama3,20,1.2,6,drama
+207,Saturday_drama4,20,1.9,6,drama
+208,Saturday_drama5,20,1.6,6,drama
+209,Saturday_drama6,20,1.2,6,drama
